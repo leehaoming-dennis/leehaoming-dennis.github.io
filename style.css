@@ -1,0 +1,19 @@
+body {
+    background-color: #c0e2fc;
+  }
+
+  h1 {
+    color: red;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+.p1 {
+    color: blue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+ .p2 {
+    color:green;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
